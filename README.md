@@ -1,6 +1,6 @@
 # Foundations of superconductivity. From phenomenology to BCS theory.
 
-This repository contains a comprehensive theoretical study on the physics of superconductors, structured as an analytical progression from macroscopic phenomena to the microscopic many-body formalism. The work is largely based on the framework established in *Many-Body Quantum Theory in Condensed Matter Physics* by Bruus & Flensberg, focusing on the emergence of superconductivity as a macroscopic quantum state.
+This repository contains a comprehensive theoretical study on the physics of superconductors, structured as an analytical progression from macroscopic phenomena to the microscopic many-body formalism. The work is largely based on the framework established in *Solid State Physics* by Grosso & Parravicini, focusing on the emergence of superconductivity as a macroscopic quantum state.
 
 ## Theoretical Scope
 
@@ -22,7 +22,7 @@ The study is divided into three main pillars that cover the transition from phen
 
 
 ## References
-* Bruus, H., & Flensberg, K. (2004). *Many-Body Quantum Theory in Condensed Matter Physics*. Oxford University Press.
+* Grosso, G., & Parravicini, G. P. (2013). *Solid State Physics*. Academic Press.
 
 **Author:** Borja Álvarez Reguera  
 **Date:** April 2026
